@@ -1,0 +1,12 @@
+{
+	"chart_one": {
+		"link": "rota1",
+		"name": "Grafico de Vibração 1",
+		"sensor": "10001"
+	},
+	"chart_two": {
+		"link": "rota2",
+		"name": "Grafico de Vibração 2",
+		"sensor": "10002"
+	}
+}

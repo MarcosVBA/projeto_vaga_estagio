@@ -1,0 +1,44 @@
+body {
+	background-image: radial-gradient(#29c6c9, #1680b8);
+    background-attachment: fixed;
+}
+
+h5 {
+	color: white;
+}
+
+.navbar {
+	background-color: transparent !important;
+}
+
+.logo-div {
+	margin-left: 3%;
+}
+
+.div-canvas {
+	background-color: white;
+	border-radius: 20px;
+	padding: 25px;
+	box-shadow: 2px 10px 10px rgba(0,0,0,0.2);
+}
+
+.nav-link {
+	color: white;
+}
+
+.nav-link:hover{
+	color: white;
+	font-weight: bold;
+}
+
+
+.nav-pills .nav-link.active {
+	color: #1680b8;
+    background-color: white;
+    font-weight: bold;
+    box-shadow: 2px 10px 10px rgb(0 0 0 / 20%);
+}
+
+.btn-div {
+	float: right;
+}
